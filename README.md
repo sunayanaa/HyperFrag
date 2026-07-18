@@ -1,5 +1,5 @@
 # HyperFrag: Detecting AI Re-Synthesis of Music via Fragile Latent Watermarking
-## Sridharan Sankaran (sridharan.sankaran@ieee.org)
+### Sridharan Sankaran (sridharan.sankaran@ieee.org)
 
 This repo implements and evaluates **HyperFrag**, a dual-path audio watermark
 built on a frozen, pretrained EnCodec (24 kHz) codec:
